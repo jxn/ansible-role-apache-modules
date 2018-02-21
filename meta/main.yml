@@ -1,0 +1,18 @@
+galaxy_info:
+  author: jxn (Jackson Murtha)
+  description: a collection of modules for working with apache2 web server, some written by other folks
+  license: GPLv2
+
+  min_ansible_version: 2.4
+
+  galaxy_tags:
+    - apache
+    - apache2
+    - modules
+
+  platforms:
+    - name: Ubuntu
+      versions:
+        - xenial
+
+dependencies: []
